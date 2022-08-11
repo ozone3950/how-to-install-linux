@@ -1,2 +1,4 @@
-# how-to-install-linux
-A GitHub guide on how to install Linux.
+# How To Install Linux
+
+# 1. Don't 
+Don't install Linux.
